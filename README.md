@@ -69,3 +69,39 @@
   </a>
 </p>
 <br>
+
+<h2 align="center">/// COMMUNICATION_CHANNELS ///</h2>
+
+<table align="center" border="0" cellpadding="18" cellspacing="0">
+  <tr>
+    <td>
+      <a href="https://linkedin.com/in/your-username">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
+      </a>
+    </td>
+    <td>
+      <a href="https://stackoverflow.com/users/your-username">
+        <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" height="40" alt="Stack Overflow" />
+      </a>
+    </td>
+    <td>
+      <a href="https://twitter.com/your-username">
+        <img src="https://img.shields.io/badge/Twitter_X-000000?style=for-the-badge&logo=x&logoColor=white" height="40" alt="Twitter/X" />
+      </a>
+    </td>
+    <td>
+      <a href="https://instagram.com/your-username">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="Instagram" />
+      </a>
+    </td>
+    <td>
+      <a href="https://discord.com/users/your-username">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="40" alt="Discord" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+---
