@@ -13,7 +13,7 @@
 <!-- ========== INTRO SECTION ========== -->
 ## 👨‍💻 About Me
 
-```javascript
+javascript
 const developer = {
   role: "Software Engineer",
   focus: "Frontend Development",
