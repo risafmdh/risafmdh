@@ -1,8 +1,9 @@
 <p align="center">
   <!-- LAYER 1: LIVE TYPING TERMINAL HEADER (BLUE BACKGROUND UPGRADE) -->
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=45&pause=500&color=00FFCC&background=0B1120&center=true&vCenter=true&width=1000&height=200&lines=%E0%BC%92+HI+I+AM+RISAF_MDH+%E0%BC%92;%E3%80%8E+SOFTWARE+ENGINEER+%E3%80%8F" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=55&pause=500&color=00FFCC&background=0B1120&center=true&vCenter=true&width=1000&height=200&lines=%E0%BC%92+HI+I+AM+RISAF_MDH+%E0%BC%92;%E3%80%8E+SOFTWARE+ENGINEER+%E3%80%8F" 
     width="100%" 
+    height=110
     alt="Cyber Header" 
   />
 </p>
