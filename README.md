@@ -105,3 +105,24 @@
 <br>
 
 ---
+
+<br>
+<br>
+
+<h3 align="center">/// EOF_SYSTEM_TERMINATED ///</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=risafmdh&label=SESSION_LOGS&color=00FFCC&style=flat-square" alt="Session Counter" />
+</p>
+
+<p align="center">
+  <code>⚡ Built with raw skill and pure execution ⚡</code>
+  <br>
+  <code>© 2026 risafmdh • All Rights Reserved</code>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" height="3px" alt="Footer Line" />
+</p>
+
+
