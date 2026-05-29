@@ -1,27 +1,24 @@
-<div align="center">
+<!-- ========== HERO BANNER ========== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1f1f1f&height=250&section=header&text=SOFTWARE%20ENGINEER&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
-<!-- 🌌 ANIMATED BACKGROUND (STARS / MATRIX STYLE BANNER) -->
-<img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3l0a2V3b2Y3b2Z6d2N5b2Z5bG9mZ2V5b2J3b2Z6bW1wZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" />
-
-<br>
-
-<!-- ✨ TITLE -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&pause=1000&color=5BC0EB&center=true&vCenter=true&width=600&lines=Software+Engineer;Frontend+Developer;UI+Engineer;Building+Modern+Experiences"/>
-
-</div>
+<!-- ========== TYPING EFFECT ========== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;UI%2FUX+Enthusiast;React+Learner;Building+Modern+Web+Experiences;Clean+Code+%7C+Smart+Design"/>
+</p>
 
 ---
 
-# 🚀 Developer Profile
-
-<div align="center">
+<!-- ========== INTRO SECTION ========== -->
+## 👨‍💻 About Me
 
 ```javascript
 const developer = {
   role: "Software Engineer",
   focus: "Frontend Development",
-  passion: "Modern UI Design",
-  learning: ["React", "JavaScript", "UI/UX"],
-  mindset: "Build • Learn • Improve"
+  passion: "Building modern UI experiences",
+  learning: ["HTML", "CSS", "JavaScript", "React"],
+  tools: ["VS Code", "Git", "GitHub"],
+  mindset: "Build. Learn. Improve."
 };
-
