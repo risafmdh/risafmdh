@@ -59,4 +59,13 @@
 
 <br>
 
----
+
+<h2 align="center">/// PROJECT_REGISTRY_ANIMATION ///</h2>
+
+<p align="center">
+  <!-- DYNAMIC LEFT-TO-RIGHT SVG STREAM -->
+  <a href="https://your-website-link-here.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&color=00FFCC&size=22&center=true&vCenter=true&width=600&height=50&lines=>>>+YOU+CAN+SEE+ON+MY+SITE+>>>" alt="You Can See On My Site" />
+  </a>
+</p>
+<br>
