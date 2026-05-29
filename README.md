@@ -1,11 +1,1 @@
-<h1 align="center">
-  Hi 👋, I'm YOUR_NAME
-</h1>
-
-<h3 align="center">
-  Software Engineer • Frontend Developer • Creative Designer
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=SOFTWARE+ENGINEER;WEB+DEVELOPER;UI+%2F+UX+DESIGNER;CREATIVE+THINKER" />
-</p>
+<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:001F3F,100:5BC0EB&text=SOFTWARE%20ENGINEER&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2500&pause=1000&color=5BC0EB&center=true&vCenter=true&width=700&lines=Frontend+Developer;Creative+UI+Designer;Building+Modern+Experiences;Always+Learning+New+Things"/> </div> --- # 💫 About Me ```javascript const developer = { role: "Software Engineer", focus: "Frontend Development", passion: "Creating modern UI experiences", learning: ["React", "JavaScript", "UI/UX"], mindset: "Build. Learn. Improve." };
