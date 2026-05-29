@@ -1,210 +1,163 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Software Engineer Intro</title>
+# <div align="center">🚀 Welcome To My Universe 🚀</div>
 
-  <style>
-    @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+<div align="center">
 
-    *{
-      margin:0;
-      padding:0;
-      box-sizing:border-box;
-    }
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+There+👋;I'm+Your+Name;Software+Engineer+💻;Full+Stack+Developer+⚡;Building+Modern+Digital+Experiences+🚀" />
 
-    body{
-      font-family:'Bebas Neue', sans-serif;
-      min-height:100vh;
-      background:linear-gradient(135deg,#050816,#12002f,#1f004d);
-      display:flex;
-      flex-direction:column;
-      align-items:center;
-      justify-content:center;
-      overflow:hidden;
-    }
+<img src="https://user-images.githubusercontent.com/74038190/212749695-6c8e9fb0-7f6e-4dcb-b7b0-1f6cdb9c8c74.gif" width="500">
 
-    .main-title-container{
-      width:700px;
-      max-width:90%;
-      height:180px;
+</div>
 
-      display:flex;
-      justify-content:center;
-      align-items:center;
+---
 
-      background:rgba(255,255,255,0.08);
+# 💫 About Me
 
-      backdrop-filter:blur(30px);
-      -webkit-backdrop-filter:blur(30px);
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-      border:1px solid rgba(255,255,255,0.2);
+```javascript
+const developer = {
+    name: "Your Name",
+    role: "Software Engineer",
+    location: "Sri Lanka 🇱🇰",
+    languages: ["JavaScript", "TypeScript", "Python", "Java"],
+    technologies: {
+        frontend: ["React", "Next.js", "Tailwind CSS"],
+        backend: ["Node.js", "Express"],
+        database: ["MongoDB", "PostgreSQL", "MySQL"],
+        devOps: ["Docker", "GitHub Actions"]
+    },
+    currentlyLearning: ["Cloud", "AI", "Microservices"],
+    funFact: "I turn coffee ☕ into scalable applications 🚀"
+};
+```
 
-      border-radius:25px;
+---
 
-      box-shadow:
-        0 8px 32px rgba(0,0,0,0.4),
-        inset 0 1px 0 rgba(255,255,255,0.2);
+# 🌐 Connect With Me
 
-      position:relative;
-    }
+<div align="center">
 
-    .main-title-container::before{
-      content:'';
-      position:absolute;
-      inset:0;
-      border-radius:25px;
-      padding:2px;
+<a href="https://linkedin.com/in/yourusername">
+<img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
 
-      background:linear-gradient(
-        45deg,
-        #ff00ff,
-        #00ffff,
-        #7b2cff,
-        #00ffff
-      );
+<a href="https://github.com/yourusername">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-      -webkit-mask:
-        linear-gradient(#fff 0 0) content-box,
-        linear-gradient(#fff 0 0);
+<a href="mailto:youremail@example.com">
+<img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-      -webkit-mask-composite:xor;
-      mask-composite:exclude;
-    }
+</div>
 
-    .main-title{
-      font-size:90px;
-      color:white;
-      letter-spacing:4px;
+---
 
-      text-shadow:
-        0 0 5px #ff00ff,
-        0 0 10px #ff00ff,
-        0 0 20px #00ffff,
-        0 0 40px #00ffff,
-        0 0 80px #7b2cff;
+# ⚒️ Tech Stack
 
-      animation:flicker 2s infinite;
-    }
+<div align="center">
 
-    @keyframes flicker{
-      0%,18%,22%,25%,53%,57%,100%{
-        opacity:1;
-      }
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,mysql,postgres,python,java,docker,git,github,vscode,figma&perline=6" />
 
-      20%,24%,55%{
-        opacity:0.4;
-      }
-    }
+</div>
 
-    .handle{
-      width:80px;
-      height:18px;
-      background:white;
-      border-radius:0 0 15px 15px;
+---
 
-      box-shadow:
-        0 0 10px white,
-        0 0 20px #00ffff;
+# 📊 GitHub Analytics
 
-      margin-top:-2px;
-    }
+<div align="center">
 
-    .stand-line{
-      width:10px;
-      height:220px;
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
 
-      background:linear-gradient(
-        to bottom,
-        #ffffff,
-        #00ffff
-      );
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117"/>
 
-      box-shadow:
-        0 0 15px #00ffff;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
 
-      border-radius:10px;
-    }
+</div>
 
-    .stand-base{
-      width:300px;
-      height:40px;
+---
 
-      background:linear-gradient(
-        90deg,
-        #00ffff,
-        #7b2cff,
-        #ff00ff
-      );
+# 🏆 GitHub Trophies
 
-      border-radius:50px;
+<div align="center">
 
-      box-shadow:
-        0 0 20px #00ffff,
-        0 0 40px #ff00ff;
+<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
 
-      margin-top:-5px;
-    }
+</div>
 
-    .detail-text{
-      width:70%;
-      max-width:900px;
+---
 
-      color:#ffe600;
+# 📈 Contribution Graph
 
-      text-align:center;
+<div align="center">
 
-      font-size:26px;
-      letter-spacing:2px;
-      line-height:1.4;
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&bg_color=0D1117"/>
 
-      margin-top:40px;
+</div>
 
-      text-shadow:
-        0 0 10px rgba(255,230,0,0.7);
-    }
+---
 
-    @media(max-width:768px){
+# 🚀 Featured Projects
 
-      .main-title{
-        font-size:50px;
-        text-align:center;
-      }
+<div align="center">
 
-      .detail-text{
-        font-size:18px;
-        width:90%;
-      }
+| Project          | Description           | Tech         |
+| ---------------- | --------------------- | ------------ |
+| 🔥 Project One   | Full Stack Modern App | MERN         |
+| ⚡ Project Two    | Real-Time Chat System | Socket.io    |
+| 🌌 Project Three | AI Powered Platform   | Next.js + AI |
 
-      .stand-base{
-        width:200px;
-      }
+</div>
 
-    }
+---
 
-  </style>
-</head>
+# 🐍 Contribution Snake
 
-<body>
+<div align="center">
 
-  <div class="main-title-container">
-    <h1 class="main-title">SOFTWARE ENGINEER</h1>
-  </div>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
-  <div class="handle"></div>
+</div>
 
-  <div class="stand-line"></div>
+---
 
-  <div class="stand-base"></div>
+# 🎵 Spotify Playing
 
-  <div class="detail-text">
-    <p>
-      Hi, I'm a Software Engineer focused on creating reliable and user-friendly applications.
-      I enjoy working with modern technologies, backend systems, cloud services, and open-source projects.
-      Passionate about continuous learning, teamwork, and writing maintainable code.
-    </p>
-  </div>
+<div align="center">
 
-</body>
-</html>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+
+</div>
+
+---
+
+# ⚡ Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+
+</div>
+
+---
+
+# 🧠 Coding Philosophy
+
+```text
+Code Clean.
+Build Fast.
+Stay Curious.
+Never Stop Learning.
+```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=footer"/>
+
+### 💻 Thanks for visiting my profile 💻
+
+<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=00F7FF&style=for-the-badge"/>
+
+</div>
