@@ -1,14 +1,32 @@
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=48&pause=600&color=00FFCC&background=0B1120&center=true&vCenter=true&width=1000&height=180&lines=%E0%BC%92+HI+I+AM+RISAF_MDH+%E0%BC%92;%E3%80%8E+SOFTWARE+ENGINEER+%E3%80%8F;FRONTEND+DEVELOPER;MODERN+UI+DESIGNER" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0B1120,50:003B46,100:00FFCC&text=RISAF_MDH&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20FRONTEND%20DEVELOPER%20%7C%20UI%20DESIGNER&descAlignY=62&descSize=18" 
     width="100%" 
-    height="120"
-    alt="Typing Header" 
+    alt="Animated Header" 
   />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=risafmdh&label=PROFILE+VIEWS&color=00FFCC&style=for-the-badge" alt="Profile Views" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=36&duration=2500&pause=700&color=00FFCC&center=true&vCenter=true&repeat=true&width=1000&height=80&lines=%E2%9A%A1+HI+I+AM+RISAF_MDH+%E2%9A%A1;%F0%9F%92%BB+SOFTWARE+ENGINEER;%F0%9F%8E%A8+MODERN+UI+DESIGNER;%F0%9F%9A%80+BUILDING+REAL+WORLD+PROJECTS" 
+    width="100%" 
+    alt="Typing Animation" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=1800&pause=500&color=FFFFFF&center=true&vCenter=true&width=900&height=45&lines=Code+%E2%80%A2+Design+%E2%80%A2+Build+%E2%80%A2+Improve;Frontend+Development+%E2%80%A2+Clean+UI+%E2%80%A2+Real+Projects;Learning+Deeply+%E2%80%A2+Building+Consistently" 
+    width="100%" 
+    alt="Subtitle Typing Animation" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=risafmdh&label=PROFILE+VIEWS&color=00FFCC&style=for-the-badge" 
+    alt="Profile Views" 
+  />
 </p>
 
 ---
@@ -38,7 +56,10 @@
 <p align="center">
   <b>[ FRONTEND DEVELOPMENT ]</b>
   <br><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,figma&theme=dark" alt="Frontend Skills" />
+  <img 
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,figma&theme=dark" 
+    alt="Frontend Skills" 
+  />
 </p>
 
 <br>
@@ -46,7 +67,10 @@
 <p align="center">
   <b>[ BACKEND & DATABASE ]</b>
   <br><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,mysql,mongodb,firebase&theme=dark" alt="Backend Skills" />
+  <img 
+    src="https://skillicons.dev/icons?i=nodejs,express,python,mysql,mongodb,firebase&theme=dark" 
+    alt="Backend Skills" 
+  />
 </p>
 
 <br>
@@ -54,7 +78,10 @@
 <p align="center">
   <b>[ TOOLS & WORKFLOW ]</b>
   <br><br>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,docker,bash,vscode,postman&theme=dark" alt="Tools" />
+  <img 
+    src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,docker,bash,vscode,postman&theme=dark" 
+    alt="Tools" 
+  />
 </p>
 
 ---
@@ -62,7 +89,10 @@
 <h2 align="center">/// CURRENT_FOCUS ///</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=00FFCC&center=true&vCenter=true&width=900&height=60&lines=Mastering+JavaScript+Deeply;Building+Modern+Frontend+Projects;Learning+React+and+UI%2FUX;Creating+Real+World+Web+Applications" alt="Current Focus" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=00FFCC&center=true&vCenter=true&width=900&height=60&lines=Mastering+JavaScript+Deeply;Building+Modern+Frontend+Projects;Learning+React+and+UI%2FUX;Creating+Real+World+Web+Applications" 
+    alt="Current Focus" 
+  />
 </p>
 
 <table align="center">
@@ -84,31 +114,6 @@
     </td>
   </tr>
 </table>
-
----
-
-<h2 align="center">/// GITHUB_SYSTEM_STATS ///</h2>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=risafmdh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=00FFCC&icon_color=00FFCC&text_color=FFFFFF" 
-    width="48%" 
-    alt="GitHub Stats" 
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=risafmdh&theme=tokyonight&hide_border=true&background=0B1120&ring=00FFCC&fire=00FFCC&currStreakLabel=00FFCC" 
-    width="48%" 
-    alt="GitHub Streak" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=risafmdh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=00FFCC&text_color=FFFFFF" 
-    width="48%" 
-    alt="Top Languages" 
-  />
-</p>
 
 ---
 
@@ -167,19 +172,39 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/your-username">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+      height="40" 
+      alt="LinkedIn" 
+    />
   </a>
   <a href="https://stackoverflow.com/users/your-username">
-    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" height="40" alt="Stack Overflow" />
+    <img 
+      src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" 
+      height="40" 
+      alt="Stack Overflow" 
+    />
   </a>
   <a href="https://twitter.com/your-username">
-    <img src="https://img.shields.io/badge/Twitter_X-000000?style=for-the-badge&logo=x&logoColor=white" height="40" alt="Twitter/X" />
+    <img 
+      src="https://img.shields.io/badge/Twitter_X-000000?style=for-the-badge&logo=x&logoColor=white" 
+      height="40" 
+      alt="Twitter/X" 
+    />
   </a>
   <a href="https://instagram.com/your-username">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="Instagram" />
+    <img 
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
+      height="40" 
+      alt="Instagram" 
+    />
   </a>
   <a href="https://discord.com/users/your-username">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="40" alt="Discord" />
+    <img 
+      src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" 
+      height="40" 
+      alt="Discord" 
+    />
   </a>
 </p>
 
@@ -201,7 +226,12 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" height="3px" alt="Footer Line" />
+  <img 
+    src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" 
+    width="100%" 
+    height="3px" 
+    alt="Footer Line" 
+  />
 </p>
 
 <h3 align="center">/// EOF_SYSTEM_TERMINATED ///</h3>
