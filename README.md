@@ -6,14 +6,13 @@
 
 # Hi, I'm Riasf 👋
 
-### Multi-Skilled Creator • Software Engineering Learner • Business Builder • Digital Designer
+### Multi-Skilled Creator • Software Engineer • DevOps • OS-Based App Builder • Cybersecurity
 
-I am building my career across **technology, business, design, digital tools, and modern online services**.
-My goal is to learn fast, build real projects, solve real problems, and grow into a strong multi-career professional.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&center=true&vCenter=true&width=1000&lines=Software+Engineer;DevOps+Builder;OS-Based+App+Builder;Cybersecurity+Focused;Automation+Tool+Creator;Software+%E2%80%A2+Systems+%E2%80%A2+Security+%E2%80%A2+Business" alt="Typing Animation" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=850&lines=Multi-Skilled+Digital+Creator;Software+Engineering+Learner;Frontend+Developer;Business+Builder;UI+%2F+UX+Design+Learner;Tech+%E2%80%A2+Business+%E2%80%A2+Design+%E2%80%A2+Growth" alt="Typing SVG" />
+<img src="./assets/tech-core-3d.svg" width="55%" alt="3D Animated Tech Core" />
 
 </div>
 
@@ -21,36 +20,72 @@ My goal is to learn fast, build real projects, solve real problems, and grow int
 
 ## 🚀 About Me
 
-```js
-const riasf = {
-  identity: "Multi-skilled digital creator",
-  focus: [
-    "Software Engineering",
-    "Frontend Development",
-    "Business Development",
-    "UI/UX Design",
-    "Digital Services",
-    "Automation Tools"
-  ],
-  learning: ["JavaScript", "React", "Git", "UI/UX", "Business Systems"],
-  mindset: "Build • Learn • Improve • Grow"
-};
-```
+<table>
+<tr>
+<td width="65%">
+
+### Who I Am
+
+I am a multi-skilled digital creator focused on building real-world technology and business solutions.
+
+### My Main Areas
+
+- Software Engineering
+- DevOps
+- OS-Based App Building
+- Cybersecurity
+- Automation Tools
+- Business Systems
+- Tech Product Building
+
+### My Mindset
+
+**Build daily. Improve always. Connect knowledge. Create value.**
+
+</td>
+<td width="35%" align="center">
+
+<img src="./assets/cube-3d.svg" width="100%" alt="3D Animated Cube" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💼 Career Interests
+## 🧠 Knowledge Philosophy
 
-* Software Engineering
-* Frontend Web Development
-* Business Development
-* Digital Marketing
-* UI/UX Design
-* Automation Tools
-* Online Service Businesses
-* Tech Product Building
-* Branding and Creative Design
-* Future Startup Projects
+<div align="center">
+
+<img src="./assets/system-orbit.svg" width="70%" alt="Animated System Orbit" />
+
+</div>
+
+I do not believe knowledge should be locked into only one path.
+
+Many education systems divide knowledge into separate fields, subjects, and titles.  
+But in the real world, success comes from combining skills together.
+
+> **Software + Systems + Security + Business = Real-world value**
+
+My goal is to build practical knowledge that can solve real problems and create real impact.
+
+---
+
+## 💼 Career Areas
+
+<div align="center">
+
+| Area | Focus |
+|---|---|
+| Software Engineering | Building real software systems |
+| DevOps | Deployment, automation, infrastructure |
+| OS-Based App Building | Desktop and system-level tools |
+| Cybersecurity | Security foundations and protection |
+| Automation Tools | Useful tools for real workflows |
+| Business Systems | Tech products with business value |
+
+</div>
 
 ---
 
@@ -58,33 +93,27 @@ const riasf = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,figma,nodejs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,linux,bash,docker,python,cpp" />
 
 </div>
 
 ---
 
-## 📌 Current Focus
+## ⚙️ Current Focus
 
-* Building real-world projects
-* Improving frontend development skills
-* Learning software engineering step by step
-* Creating useful business tools
-* Designing modern digital experiences
-* Growing personal brand and GitHub profile
+<div align="center">
 
----
+<img src="./assets/focus-3d.svg" width="75%" alt="3D Focus Animation" />
 
-## 🌱 My Mindset
+</div>
 
-I believe one person can grow in many directions with discipline, learning, and real practice.
-
-```text
-Learn fast.
-Build daily.
-Improve always.
-Think bigger.
-```
+- Building real-world software projects
+- Creating OS-based desktop tools
+- Improving DevOps and system knowledge
+- Building cybersecurity foundations
+- Creating automation tools
+- Developing useful business systems
+- Building products with technology and business value
 
 ---
 
@@ -92,8 +121,8 @@ Think bigger.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="165" />
 
 </div>
 
@@ -103,9 +132,9 @@ Think bigger.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-25D366?style=for-the-badge\&logo=vercel\&logoColor=black)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-25D366?style=for-the-badge&logo=vercel&logoColor=black)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
 </div>
 
@@ -113,6 +142,8 @@ Think bigger.
 
 <div align="center">
 
-### “Tech • Business • Design • Growth”
+<img src="./assets/footer-wave.svg" width="100%" alt="Animated Footer" />
+
+### “Software • Systems • Security • Business • Growth”
 
 </div>
