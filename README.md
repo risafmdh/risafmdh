@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assvsgs/myeditz.png" width="100%" alt="Profile Banner" />
+<img src="./myeditz.png" width="100%" alt="Profile Banner" />
 
 <br/>
 
@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="./assvsgs/tech-core-3d.svg" width="55%" alt="3D Animated Tech Core" />
+<img src="./tech-core-3d.svg" width="55%" alt="3D Animated Tech Core" />
 
 </div>
 
@@ -30,13 +30,13 @@ I am a multi-skilled digital creator focused on building real-world technology a
 
 ### My Main Areas
 
-* Software Engineering
-* DevOps
-* OS-Based App Building
-* Cybersecurity
-* Automation Tools
-* Business Systems
-* Tech Product Building
+- Software Engineering
+- DevOps
+- OS-Based App Building
+- Cybersecurity
+- Automation Tools
+- Business Systems
+- Tech Product Building
 
 ### My Mindset
 
@@ -45,7 +45,7 @@ I am a multi-skilled digital creator focused on building real-world technology a
 </td>
 <td width="35%" align="center">
 
-<img src="./assvsgs/cube-3d.svg" width="100%" alt="3D Animated Cube" />
+<img src="./cube-3d.svg" width="100%" alt="3D Animated Cube" />
 
 </td>
 </tr>
@@ -57,13 +57,13 @@ I am a multi-skilled digital creator focused on building real-world technology a
 
 <div align="center">
 
-<img src="./assvsgs/system-orbit.svg" width="70%" alt="Animated System Orbit" />
+<img src="./system-orbit.svg" width="70%" alt="Animated System Orbit" />
 
 </div>
 
 I do not believe knowledge should be locked into only one path.
 
-Many education systems divide knowledge into separate fields, subjects, and titles.
+Many education systems divide knowledge into separate fields, subjects, and titles.  
 But in the real world, success comes from combining skills together.
 
 > **Software + Systems + Security + Business = Real-world value**
@@ -76,14 +76,14 @@ My goal is to build practical knowledge that can solve real problems and create 
 
 <div align="center">
 
-| Area                  | Focus                                  |
-| --------------------- | -------------------------------------- |
-| Software Engineering  | Building real software systems         |
-| DevOps                | Deployment, automation, infrastructure |
-| OS-Based App Building | Desktop and system-level tools         |
-| Cybersecurity         | Security foundations and protection    |
-| Automation Tools      | Useful tools for real workflows        |
-| Business Systems      | Tech products with business value      |
+| Area | Focus |
+|---|---|
+| Software Engineering | Building real software systems |
+| DevOps | Deployment, automation, infrastructure |
+| OS-Based App Building | Desktop and system-level tools |
+| Cybersecurity | Security foundations and protection |
+| Automation Tools | Useful tools for real workflows |
+| Business Systems | Tech products with business value |
 
 </div>
 
@@ -103,17 +103,17 @@ My goal is to build practical knowledge that can solve real problems and create 
 
 <div align="center">
 
-<img src="./assvsgs/focus-3d.svg" width="75%" alt="3D Focus Animation" />
+<img src="./focus-3d.svg" width="75%" alt="3D Focus Animation" />
 
 </div>
 
-* Building real-world software projects
-* Creating OS-based desktop tools
-* Improving DevOps and system knowledge
-* Building cybersecurity foundations
-* Creating automation tools
-* Developing useful business systems
-* Building products with technology and business value
+- Building real-world software projects
+- Creating OS-based desktop tools
+- Improving DevOps and system knowledge
+- Building cybersecurity foundations
+- Creating automation tools
+- Developing useful business systems
+- Building products with technology and business value
 
 ---
 
@@ -132,9 +132,9 @@ My goal is to build practical knowledge that can solve real problems and create 
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-25D366?style=for-the-badge\&logo=vercel\&logoColor=black)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-25D366?style=for-the-badge&logo=vercel&logoColor=black)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
 </div>
 
@@ -142,7 +142,7 @@ My goal is to build practical knowledge that can solve real problems and create 
 
 <div align="center">
 
-<img src="./assvsgs/footer-wave.svg" width="100%" alt="Animated Footer" />
+<img src="./footer-wave.svg" width="100%" alt="Animated Footer" />
 
 ### “Software • Systems • Security • Business • Growth”
 
