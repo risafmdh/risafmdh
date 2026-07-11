@@ -1,0 +1,43 @@
+<svg width="1000" height="140" viewBox="0 0 1000 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="w" x1="0" y1="0" x2="1000" y2="140">
+      <stop stop-color="#FF6EC7"/>
+      <stop offset="0.25" stop-color="#FFA43D"/>
+      <stop offset="0.5" stop-color="#FFD93D"/>
+      <stop offset="0.75" stop-color="#3DDAD7"/>
+      <stop offset="1" stop-color="#8C6BFA"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="140" fill="transparent"/>
+
+  <circle cx="60" cy="40" r="3" fill="#FFD93D">
+    <animate attributeName="opacity" values="0;1;0" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="940" cy="35" r="3" fill="#FF6EC7">
+    <animate attributeName="opacity" values="0;1;0" dur="3s" begin="1s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="500" cy="25" r="2.5" fill="#3DDAD7">
+    <animate attributeName="opacity" values="0;1;0" dur="2.7s" begin="0.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <path d="M0 80 C150 20, 250 130, 400 70 C550 10, 700 130, 1000 60" stroke="url(#w)" stroke-width="4" opacity="0.6">
+    <animate attributeName="d"
+      values="
+      M0 80 C150 20, 250 130, 400 70 C550 10, 700 130, 1000 60;
+      M0 60 C150 120, 250 20, 400 90 C550 140, 700 20, 1000 80;
+      M0 80 C150 20, 250 130, 400 70 C550 10, 700 130, 1000 60"
+      dur="6s"
+      repeatCount="indefinite"/>
+  </path>
+
+  <path d="M0 105 C180 60, 300 145, 500 95 C680 50, 820 125, 1000 95" stroke="url(#w)" stroke-width="2" opacity="0.35">
+    <animate attributeName="d"
+      values="
+      M0 105 C180 60, 300 145, 500 95 C680 50, 820 125, 1000 95;
+      M0 95 C180 145, 300 60, 500 115 C680 145, 820 55, 1000 105;
+      M0 105 C180 60, 300 145, 500 95 C680 50, 820 125, 1000 95"
+      dur="8s"
+      repeatCount="indefinite"/>
+  </path>
+</svg>

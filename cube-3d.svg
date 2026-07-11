@@ -1,0 +1,39 @@
+<svg width="360" height="320" viewBox="0 0 360 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="c" x1="50" y1="40" x2="310" y2="280">
+      <stop stop-color="#FF6EC7"/>
+      <stop offset="0.5" stop-color="#FFA43D"/>
+      <stop offset="1" stop-color="#FFD93D"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="360" height="320" fill="transparent"/>
+
+  <g transform="translate(180 160)" filter="url(#glow)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="14s" repeatCount="indefinite"/>
+      <ellipse rx="125" ry="35" stroke="url(#c)" stroke-width="3" opacity="0.5"/>
+      <ellipse rx="125" ry="35" stroke="url(#c)" stroke-width="3" opacity="0.35" transform="rotate(60)"/>
+      <ellipse rx="125" ry="35" stroke="url(#c)" stroke-width="3" opacity="0.35" transform="rotate(120)"/>
+    </g>
+
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="0;8;0;-8;0" dur="5s" repeatCount="indefinite"/>
+      <polygon points="0,-80 70,-40 70,40 0,80 -70,40 -70,-40" fill="#1B1035" stroke="url(#c)" stroke-width="4"/>
+      <polygon points="0,-80 70,-40 0,0 -70,-40" fill="#2A1854"/>
+      <polygon points="70,-40 70,40 0,80 0,0" fill="#150C29"/>
+      <polygon points="-70,-40 0,0 0,80 -70,40" fill="#0D0619"/>
+    </g>
+
+    <circle cx="0" cy="0" r="10" fill="#8C6BFA">
+      <animate attributeName="r" values="8;15;8" dur="2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>

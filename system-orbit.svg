@@ -1,0 +1,47 @@
+<svg width="900" height="260" viewBox="0 0 900 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="line" x1="70" y1="20" x2="830" y2="240">
+      <stop stop-color="#FF6EC7"/>
+      <stop offset="0.25" stop-color="#FFA43D"/>
+      <stop offset="0.5" stop-color="#FFD93D"/>
+      <stop offset="0.75" stop-color="#3DDAD7"/>
+      <stop offset="1" stop-color="#8C6BFA"/>
+    </linearGradient>
+    <filter id="g">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="260" fill="transparent"/>
+
+  <path d="M130 130 C260 20, 420 20, 450 130 C480 240, 650 240, 770 130" stroke="url(#line)" stroke-width="3" opacity="0.55"/>
+  <path d="M130 130 C260 240, 420 240, 450 130 C480 20, 650 20, 770 130" stroke="url(#line)" stroke-width="3" opacity="0.35"/>
+
+  <g filter="url(#g)">
+    <circle cx="130" cy="130" r="28" fill="#1B1035" stroke="#FF6EC7" stroke-width="3"/>
+    <circle cx="290" cy="70" r="26" fill="#1B1035" stroke="#FFA43D" stroke-width="3"/>
+    <circle cx="450" cy="130" r="32" fill="#1B1035" stroke="#FFD93D" stroke-width="3"/>
+    <circle cx="610" cy="190" r="26" fill="#1B1035" stroke="#3DDAD7" stroke-width="3"/>
+    <circle cx="770" cy="130" r="28" fill="#1B1035" stroke="#8C6BFA" stroke-width="3"/>
+
+    <circle cx="130" cy="130" r="8" fill="#FF6EC7">
+      <animate attributeName="r" values="6;12;6" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="290" cy="70" r="8" fill="#FFA43D">
+      <animate attributeName="r" values="6;12;6" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="450" cy="130" r="9" fill="#FFD93D">
+      <animate attributeName="r" values="7;14;7" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="610" cy="190" r="8" fill="#3DDAD7">
+      <animate attributeName="r" values="6;12;6" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="770" cy="130" r="8" fill="#8C6BFA">
+      <animate attributeName="r" values="6;12;6" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
