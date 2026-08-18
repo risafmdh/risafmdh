@@ -49,9 +49,6 @@ I am a multi-skilled digital creator focused on building real-world technology a
 
 **My Main Areas**
 
-- 💻 Software Engineering
-- ⚙️ DevOps
-- 🖥️ OS-Based App Building
 - 🔐 Cybersecurity
 - 🤖 Automation Tools
 - 📈 Business Systems
