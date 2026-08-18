@@ -196,20 +196,7 @@ Add a one-line description of what it does and why it matters.
 
 <a id="github-stats"></a>
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=risafmdh&show_icons=true&theme=radical&hide_border=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=risafmdh&theme=radical&hide_border=true" height="165" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=risafmdh&theme=radical&no-frame=true&row=1&column=7" />
-
-</div>
-
-<div align="center"><img src="./divider.svg" width="100%" height="22" alt="" /></div>
-
-<a id="contribution-rhythm"></a>
 
 ## 📈 Contribution Rhythm
 
