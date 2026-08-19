@@ -2,232 +2,269 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EC7,25:FFA43D,50:FFD93D,75:3DDAD7,100:8C6BFA&height=150&section=header&animation=twinkling" width="100%" />
-
-# Hi, I'm Riasf 👋
-
-### Multi-Skilled Creator • Software Engineer • DevOps • OS-Based App Builder • Cybersecurity
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=FF6EC7&center=true&vCenter=true&width=1000&lines=Software+Engineer;DevOps+Builder;OS-Based+App+Builder;Cybersecurity+Focused;Automation+Tool+Creator;Software+%E2%80%A2+Systems+%E2%80%A2+Security+%E2%80%A2+Business" alt="Typing Animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C2BD9,20:8A2BE2,40:FF1493,60:00D4FF,80:00E5A0,100:FFD166&height=190&section=header&animation=twinkling" width="100%" />
 
 <br/>
 
-[![About](https://img.shields.io/badge/About-E0409C?style=for-the-badge)](#about-me)
-[![Philosophy](https://img.shields.io/badge/Philosophy-F2762E?style=for-the-badge)](#knowledge-philosophy)
-[![Career](https://img.shields.io/badge/Career-E0A100?style=for-the-badge)](#career-areas)
-[![Tech_Stack](https://img.shields.io/badge/Tech_Stack-1E9E96?style=for-the-badge)](#tech-tools)
-[![Focus](https://img.shields.io/badge/Focus-6C4CF0?style=for-the-badge)](#current-focus)
-[![Projects](https://img.shields.io/badge/Projects-E0409C?style=for-the-badge)](#featured-projects)
-[![Stats](https://img.shields.io/badge/Stats-F2762E?style=for-the-badge)](#github-stats)
-[![Rhythm](https://img.shields.io/badge/Rhythm-E0A100?style=for-the-badge)](#contribution-rhythm)
-[![Connect](https://img.shields.io/badge/Connect-1E9E96?style=for-the-badge)](#connect-with-me)
+# 🛡️ RAIZED CYBER
+
+### `CYBERSECURITY ENGINEER`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00E5FF&center=true&vCenter=true&width=950&lines=CYBERSECURITY+ENGINEER;SECURITY+RESEARCHER;DIGITAL+SECURITY;SECURITY+ENGINEERING;CONTINUOUS+LEARNING;BUILDING+WHAT+COMES+NEXT" alt="Typing Animation" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=risafmdh&style=for-the-badge&color=6C4CF0&label=PROFILE+VIEWS" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/risafmdh?style=for-the-badge&color=E0409C&logo=github&logoColor=white&label=FOLLOWERS" alt="Followers" />
+![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-6C2BD9?style=for-the-badge\&logo=shield\&logoColor=white)
+![Research](https://img.shields.io/badge/SECURITY_RESEARCH-FF1493?style=for-the-badge\&logo=probot\&logoColor=white)
+![Engineering](https://img.shields.io/badge/ENGINEERING-00AEEF?style=for-the-badge\&logo=code\&logoColor=white)
 
 <br/><br/>
 
-<img src="./tech-core-3d.svg" width="55%" alt="3D Animated Tech Core" />
+<img src="https://komarev.com/ghpvc/?username=risafmdh&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" alt="Profile Views" />
+
+<br/><br/>
+
+<img src="./tech-core-3d.svg" width="55%" alt="RAIZED CYBER Core" />
 
 </div>
 
-<div align="center"><img src="./divider.svg" width="100%" height="22" alt="" /></div>
-
-<a id="about-me"></a>
-
-## 🚀 About Me
-
-<table>
-<tr>
-<td width="65%" valign="top">
-
-**Who I Am**
-
-I am a multi-skilled digital creator focused on building real-world technology and business solutions.
-
-**My Main Areas**
-
-- 🔐 Cybersecurity
-- 🤖 Automation Tools
-- 📈 Business Systems
-- 🛠️ Tech Product Building
-
-**My Mindset**
-
-> Build daily. Improve always. Connect knowledge. Create value.
-
-</td>
-<td width="35%" align="center" valign="top">
-
-<img src="./cube-3d.svg" width="100%" alt="3D Animated Cube" />
-
-</td>
-</tr>
-</table>
-
-<div align="center"><img src="./divider.svg" width="100%" height="22" alt="" /></div>
-
-<a id="knowledge-philosophy"></a>
-
-## 🧠 Knowledge Philosophy
+---
 
 <div align="center">
 
-<img src="./system-orbit.svg" width="65%" alt="Animated System Orbit" />
+## 🌐 `01` — IDENTITY
+
+### 🔮 RAIZED CYBER
+
+**Cybersecurity Engineer focused on understanding, securing, and advancing the digital world.**
+
+<br/>
+
+🟣 **Think Deeper**   •  
+🔵 **Learn Continuously**   •  
+🟢 **Build Responsibly**   •  
+🟠 **Stay Ahead**
 
 </div>
 
-Knowledge shouldn't be locked into a single path. Most education systems split learning into separate fields, subjects, and titles — but in the real world, success comes from combining skills together.
+---
 
-> **Software + Systems + Security + Business = Real-world value**
-
-My goal is to build practical knowledge that solves real problems and creates real impact.
-
-<div align="center"><img src="./divider.svg" width="100%" height="22" alt="" /></div>
-
-<a id="career-areas"></a>
-
-## 💼 Career Areas
+## 🧠 `02` — MINDSET
 
 <div align="center">
 
-| Area | Focus |
-|---|---|
-| ![Software Engineering](https://img.shields.io/badge/Software_Engineering-E0409C?style=flat-square) | Building real software systems |
-| ![DevOps](https://img.shields.io/badge/DevOps-F2762E?style=flat-square) | Deployment, automation, infrastructure |
-| ![OS-Based App Building](https://img.shields.io/badge/OS--Based_App_Building-E0A100?style=flat-square) | Desktop and system-level tools |
-| ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-1E9E96?style=flat-square) | Security foundations and protection |
-| ![Automation Tools](https://img.shields.io/badge/Automation_Tools-6C4CF0?style=flat-square) | Useful tools for real workflows |
-| ![Business Systems](https://img.shields.io/badge/Business_Systems-E0409C?style=flat-square) | Tech products with business value |
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="80%" />
+
+### 💜 SECURITY IS NOT A DESTINATION.
+
+### 🌐 IT IS A CONTINUOUS PROCESS OF
+
+### 🧠 **LEARNING • ADAPTING • EVOLVING**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="80%" />
 
 </div>
 
-<div align="center"><img src="./divider.svg" width="100%" height="22" alt="" /></div>
+<br/>
 
-<a id="tech-tools"></a>
+Technology changes.
 
-## 🛠 Tech & Tools
+Threats change.
 
-<div align="center">
+Systems change.
 
-**Languages & Frontend**
+**Security must evolve with them.**
 
-<img src="https://skillicons.dev/icons?i=js,python,cpp,html,css,react,nodejs" />
+RAIZED CYBER is built around curiosity, discipline, responsible research, and continuous improvement.
 
-**Tools & Platforms**
+---
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,docker" />
-
-</div>
-
-<div align="center"><img src="./divider.svg" width="100%" height="22" alt="" /></div>
-
-<a id="current-focus"></a>
-
-## ⚙️ Current Focus
-
-<div align="center">
-
-<img src="./focus-3d.svg" width="70%" alt="3D Focus Animation" />
-
-</div>
-
-- 🏗️ Building real-world software projects
-- 🖥️ Creating OS-based desktop tools
-- ⚙️ Improving DevOps and system knowledge
-- 🔐 Building cybersecurity foundations
-- 🤖 Creating automation tools
-- 📊 Developing useful business systems
-- 🚀 Building products with technology and business value
-
-<div align="center"><img src="./divider.svg" width="100%" height="22" alt="" /></div>
-
-<a id="featured-projects"></a>
-
-## 🎯 Featured Projects
+## 🚀 `03` — DIRECTION
 
 <div align="center">
 
 <table>
 <tr>
-<td width="33%" valign="top" align="center">
+<td align="center" width="20%">
 
-**🔹 Project Name**
+### 🧠
 
-Add a one-line description of what it does and why it matters.
+**UNDERSTAND**
 
-`Tech` `Stack` `Here`
-
-[View Project →](#)
+Understanding complexity and seeing systems differently.
 
 </td>
-<td width="33%" valign="top" align="center">
 
-**🔹 Project Name**
+<td align="center" width="20%">
 
-Add a one-line description of what it does and why it matters.
+### 🔎
 
-`Tech` `Stack` `Here`
+**EXPLORE**
 
-[View Project →](#)
+Exploring ideas, technology, and emerging possibilities.
 
 </td>
-<td width="33%" valign="top" align="center">
 
-**🔹 Project Name**
+<td align="center" width="20%">
 
-Add a one-line description of what it does and why it matters.
+### 🧪
 
-`Tech` `Stack` `Here`
+**RESEARCH**
 
-[View Project →](#)
+Developing deeper technical knowledge through continuous research.
+
+</td>
+
+<td align="center" width="20%">
+
+### 🛡️
+
+**SECURE**
+
+Thinking from a security-first perspective.
+
+</td>
+
+<td align="center" width="20%">
+
+### 🚀
+
+**EVOLVE**
+
+Continuously improving and moving forward.
 
 </td>
 </tr>
 </table>
 
-*(Swap these three cards for your real projects — repo link, live demo, whatever fits.)*
-
 </div>
 
-<div align="center"><img src="./divider.svg" width="100%" height="22" alt="" /></div>
+---
 
-<a id="github-stats"></a>
-
-
-
-## 📈 Contribution Rhythm
+## 🌈 `04` — VISION
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=risafmdh&bg_color=00000000&color=8C6BFA&line=FF6EC7&point=FFD93D&area=true&area_color=3DDAD7&hide_border=true" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1500&color=FF1493&center=true&vCenter=true&width=850&lines=SEE+DIFFERENTLY.;THINK+SECURELY.;BUILD+RESPONSIBLY.;STAY+AHEAD." alt="Vision Animation" />
+
+<br/><br/>
+
+### 🔮 RAIZED CYBER
+
+**Exploring the future of cybersecurity.**
 
 </div>
 
-<div align="center"><img src="./divider.svg" width="100%" height="22" alt="" /></div>
+---
 
-<a id="connect-with-me"></a>
-
-## 🌐 Connect With Me
+## ⚡ `05` — PRINCIPLES
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/risafmdh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C4CF0?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+|  🌌 | Principle            | Meaning                                           |
+| :-: | :------------------- | :------------------------------------------------ |
+|  🧠 | **CURIOUS**          | Always questioning. Always learning.              |
+|  💎 | **DISCIPLINED**      | Consistency creates capability.                   |
+| 🛡️ | **RESPONSIBLE**      | Knowledge should be used with purpose.            |
+|  🌊 | **ADAPTIVE**         | The digital world never stands still.             |
+|  🚀 | **FORWARD-THINKING** | Today's understanding builds tomorrow's security. |
 
 </div>
 
-<div align="center"><img src="./divider.svg" width="100%" height="22" alt="" /></div>
+---
+
+## 🔥 `06` — CURRENT JOURNEY
 
 <div align="center">
 
-<img src="./footer-wave.svg" width="100%" alt="Animated Footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00E5A0&center=true&vCenter=true&width=850&lines=LEARN+%E2%86%92+RESEARCH+%E2%86%92+UNDERSTAND;UNDERSTAND+%E2%86%92+EVOLVE+%E2%86%92+SECURE;REPEAT." alt="Journey Animation" />
 
-### "Software • Systems • Security • Business • Growth"
+<br/><br/>
 
-[⬆ Back to top](#top)
+🛡️ **Cybersecurity Engineering**
+
+🔬 **Security Research**
+
+🌐 **Digital Security**
+
+🧠 **Continuous Learning**
+
+🌌 **Emerging Technology**
+
+</div>
+
+---
+
+## 💠 `07` — RAIZED CYBER
+
+<div align="center">
+
+```text
+                    ╔══════════════════════╗
+                    ║     🛡️ RAIZED CYBER   ║
+                    ╚══════════╦═══════════╝
+                               ║
+              ╔════════════════╬════════════════╗
+              ║                ║                ║
+           🧠 LEARN        🔬 RESEARCH       🚀 EVOLVE
+              ║                ║                ║
+              ╚════════════════╬════════════════╝
+                               ║
+                         🔎 UNDERSTAND
+                               ║
+                          🛡️ SECURE
+```
+
+### `LEARN • RESEARCH • UNDERSTAND • EVOLVE • SECURE`
+
+</div>
+
+---
+
+## 📊 `08` — GITHUB
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=risafmdh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF1493&text_color=C9D1D9&icon_color=00E5FF" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=risafmdh&hide_border=true&background=0D1117&ring=8A2BE2&fire=FF1493&currStreakLabel=00E5FF&sideLabels=FFD166&currStreakNum=00E5A0&sideNums=C9D1D9" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=risafmdh&bg_color=0D1117&color=00E5FF&line=FF1493&point=FFD166&area=true&area_color=6C2BD9&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 🌐 `09` — CONNECT
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GITHUB-6C2BD9?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/risafmdh)
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00AEEF?style=for-the-badge\&logo=linkedin\&logoColor=white)](#)
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF1493?style=for-the-badge\&logo=vercel\&logoColor=white)](#)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD166,20:00E5A0,40:00D4FF,60:FF1493,80:8A2BE2,100:6C2BD9&height=150&section=footer&animation=twinkling" width="100%" />
+
+### 🛡️ RAIZED CYBER
+
+## `CYBERSECURITY ENGINEER`
+
+### 💜 `LEARN` • 🔵 `RESEARCH` • 🟢 `EVOLVE`
+
+<sub>Building knowledge for a more secure digital future.</sub>
+
+<br/><br/>
+
+[⬆️ Back to top](#top)
 
 </div>
