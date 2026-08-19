@@ -6,7 +6,7 @@
 
 <br/>
 
-# 🛡️ RAIZED CYBER
+# 🛡️ RISAF MUHAMED
 
 ### `CYBERSECURITY ENGINEER`
 
@@ -15,7 +15,7 @@
 <br/>
 
 ![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-6C2BD9?style=for-the-badge\&logo=shield\&logoColor=white)
-![Research](https://img.shields.io/badge/SECURITY_RESEARCH-FF1493?style=for-the-badge\&logo=probot\&logoColor=white)
+![Security Research](https://img.shields.io/badge/SECURITY_RESEARCH-FF1493?style=for-the-badge\&logo=probot\&logoColor=white)
 ![Engineering](https://img.shields.io/badge/ENGINEERING-00AEEF?style=for-the-badge\&logo=code\&logoColor=white)
 
 <br/><br/>
@@ -24,7 +24,7 @@
 
 <br/><br/>
 
-<img src="./tech-core-3d.svg" width="55%" alt="RAIZED CYBER Core" />
+<img src="./tech-core-3d.svg" width="55%" alt="Cybersecurity Core" />
 
 </div>
 
@@ -34,7 +34,7 @@
 
 ## 🌐 `01` — IDENTITY
 
-### 🔮 RAIZED CYBER
+### 🔮 RISAF MUHAMED
 
 **Cybersecurity Engineer focused on understanding, securing, and advancing the digital world.**
 
@@ -75,7 +75,7 @@ Systems change.
 
 **Security must evolve with them.**
 
-RAIZED CYBER is built around curiosity, discipline, responsible research, and continuous improvement.
+My work is driven by curiosity, discipline, responsible research, and continuous improvement.
 
 ---
 
@@ -149,7 +149,7 @@ Continuously improving and moving forward.
 
 <br/><br/>
 
-### 🔮 RAIZED CYBER
+### 🔮 RISAF MUHAMED
 
 **Exploring the future of cybersecurity.**
 
@@ -195,13 +195,13 @@ Continuously improving and moving forward.
 
 ---
 
-## 💠 `07` — RAIZED CYBER
+## 💠 `07` — SECURITY MINDSET
 
 <div align="center">
 
 ```text
                     ╔══════════════════════╗
-                    ║     🛡️ RAIZED CYBER   ║
+                    ║    🛡️ RISAF MUHAMED   ║
                     ╚══════════╦═══════════╝
                                ║
               ╔════════════════╬════════════════╗
@@ -255,7 +255,7 @@ Continuously improving and moving forward.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD166,20:00E5A0,40:00D4FF,60:FF1493,80:8A2BE2,100:6C2BD9&height=150&section=footer&animation=twinkling" width="100%" />
 
-### 🛡️ RAIZED CYBER
+### 🛡️ RISAF MUHAMED
 
 ## `CYBERSECURITY ENGINEER`
 
